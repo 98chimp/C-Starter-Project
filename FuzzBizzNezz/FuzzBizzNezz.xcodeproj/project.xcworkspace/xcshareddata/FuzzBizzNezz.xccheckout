@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>59855773-7F22-4844-A69D-FE933748FD42</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FuzzBizzNezz</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AB67D772541B97D82365598075075C803D7B28D1</key>
+		<string>https://github.com/98chimp/C-Starter-Project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FuzzBizzNezz/FuzzBizzNezz.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AB67D772541B97D82365598075075C803D7B28D1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/98chimp/C-Starter-Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AB67D772541B97D82365598075075C803D7B28D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AB67D772541B97D82365598075075C803D7B28D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>02-C-Starter-Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
